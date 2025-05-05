@@ -1,0 +1,21 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "Attachment",
+      "DisplayName": "Attachment",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "C:\\Users\\Admin\\Documents\\UiPath\\RPA Exp 9_Soham Raut_35\\file_example_XLS_1000.xlsx",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
